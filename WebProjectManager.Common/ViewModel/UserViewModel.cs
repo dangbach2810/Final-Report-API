@@ -13,5 +13,6 @@ namespace WebProjectManager.Common.ViewModel
         public string Address { get; set; }
         public bool Gender { get; set; }
         public DateTime DateOfBirth { get; set; }
+        public bool IsReceiveMail { get; set; }
     }
 }

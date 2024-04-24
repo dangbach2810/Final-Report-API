@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GeM8S2+h+1pIjPmOIpYQPa1EWPHRQgFPLJLShakexaVhJ+cmu4YV4eNYk7UCzG8UvXxGj5t4qVYrXFN9+S81cg==",
+  "dgSpecHash": "xWe82AcMeSPrcBX26EXWBsweMza9HJWOrYEyeRlN+G7+AdjLuUhXiLmpGHGxYoLqy2Ca6fGYCmjRO5TUS6Ucsw==",
   "success": true,
-  "projectFilePath": "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
+  "projectFilePath": "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\intern.ldbach\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\intern.ldbach\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

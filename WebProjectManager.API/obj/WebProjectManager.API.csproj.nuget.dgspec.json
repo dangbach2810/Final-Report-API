@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebProjectManager\\WebProjectManager.API\\WebProjectManager.API.csproj": {}
+    "D:\\Final-Report-API\\WebProjectManager.API\\WebProjectManager.API.csproj": {}
   },
   "projects": {
-    "D:\\WebProjectManager\\WebProjectManager.API\\WebProjectManager.API.csproj": {
+    "D:\\Final-Report-API\\WebProjectManager.API\\WebProjectManager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProjectManager\\WebProjectManager.API\\WebProjectManager.API.csproj",
+        "projectUniqueName": "D:\\Final-Report-API\\WebProjectManager.API\\WebProjectManager.API.csproj",
         "projectName": "WebProjectManager.API",
-        "projectPath": "D:\\WebProjectManager\\WebProjectManager.API\\WebProjectManager.API.csproj",
+        "projectPath": "D:\\Final-Report-API\\WebProjectManager.API\\WebProjectManager.API.csproj",
         "packagesPath": "C:\\Users\\intern.ldbach\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProjectManager\\WebProjectManager.API\\obj\\",
+        "outputPath": "D:\\Final-Report-API\\WebProjectManager.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {
-                "projectPath": "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj"
+              "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {
+                "projectPath": "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj"
               },
-              "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj": {
-                "projectPath": "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj"
+              "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj": {
+                "projectPath": "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {
+    "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
+        "projectUniqueName": "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
         "projectName": "WebProjectManager.Common",
-        "projectPath": "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
+        "projectPath": "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
         "packagesPath": "C:\\Users\\intern.ldbach\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProjectManager\\WebProjectManager.Common\\obj\\",
+        "outputPath": "D:\\Final-Report-API\\WebProjectManager.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,14 +202,14 @@
         }
       }
     },
-    "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj": {
+    "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
+        "projectUniqueName": "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
         "projectName": "WebProjectManager.Models",
-        "projectPath": "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
+        "projectPath": "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
         "packagesPath": "C:\\Users\\intern.ldbach\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProjectManager\\WebProjectManager.Models\\obj\\",
+        "outputPath": "D:\\Final-Report-API\\WebProjectManager.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

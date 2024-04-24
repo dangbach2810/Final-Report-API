@@ -22,3 +22,16 @@ D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager
 D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\refint\WebProjectManager.Common.dll
 D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.pdb
 D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\ref\WebProjectManager.Common.dll
+D:\Final-Report-API\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.deps.json
+D:\Final-Report-API\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.dll
+D:\Final-Report-API\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.pdb
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.AssemblyReference.cache
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfoInputs.cache
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfo.cs
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.CoreCompileInputs.cache
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.sourcelink.json
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.dll
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\refint\WebProjectManager.Common.dll
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.pdb
+D:\Final-Report-API\WebProjectManager.Common\obj\Debug\net6.0\ref\WebProjectManager.Common.dll

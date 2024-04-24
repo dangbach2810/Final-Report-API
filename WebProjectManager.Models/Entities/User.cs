@@ -21,6 +21,7 @@ namespace WebProjectManager.Models.Entities
             Timesheets = new HashSet<Timesheet>();
             Tabs = new HashSet<Tab>();
             TaskUserMember = new HashSet<TaskUserMember>();
+
         }
         public string? Firstname { get; set; }
         public string? Lastname { get; set; }
@@ -32,6 +33,7 @@ namespace WebProjectManager.Models.Entities
         public DateTime? UpdatedOn { get; set; }
         public bool? IsVerification { get; set; }
         public bool? IsActive { get; set; }
+        public bool? IsReceiveMail { get; set; }
         public virtual ICollection<AccountVerification> AccountVerifications { get; set; }
         public virtual ICollection<CardUserMember> CardUserMembers { get; set; }
         public virtual ICollection<Card> Cards { get; set; }

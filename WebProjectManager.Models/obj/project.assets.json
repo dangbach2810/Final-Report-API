@@ -2999,11 +2999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
+      "projectUniqueName": "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
       "projectName": "WebProjectManager.Models",
-      "projectPath": "D:\\WebProjectManager\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
+      "projectPath": "D:\\Final-Report-API\\WebProjectManager.Models\\WebProjectManager.Models.csproj",
       "packagesPath": "C:\\Users\\intern.ldbach\\.nuget\\packages\\",
-      "outputPath": "D:\\WebProjectManager\\WebProjectManager.Models\\obj\\",
+      "outputPath": "D:\\Final-Report-API\\WebProjectManager.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -210,6 +210,10 @@ namespace WebProjectManager.API.Controllers
             {
                 data.Gender = model.Gender;
             }
+            if(model.IsReceiveMail != null)
+            {
+                data.IsReceiveMail = model.IsReceiveMail;
+            }
             _context.Entry(data).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return Ok(data);

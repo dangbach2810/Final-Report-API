@@ -97,13 +97,6 @@ namespace WebProjectManager.Models.Migrations
                     b.HasKey("UserId", "RoleId");
 
                     b.ToTable("AppUserRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            UserId = new Guid("e87ac7c5-95a5-46dd-92e4-9785bf11b5f3"),
-                            RoleId = new Guid("8d04dce2-969a-435d-bba4-df3f325983dc")
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<System.Guid>", b =>
@@ -346,17 +339,6 @@ namespace WebProjectManager.Models.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Role");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("8d04dce2-969a-435d-bba4-df3f325983dc"),
-                            ConcurrencyStamp = "ba0c0e46-5d0a-4d6f-a5fb-16360f204b7b",
-                            Description = "Administrator role",
-                            IsActive = true,
-                            Name = "Admin",
-                            NormalizedName = "ADMIN"
-                        });
                 });
 
             modelBuilder.Entity("WebProjectManager.Models.Entities.Tab", b =>
@@ -625,6 +607,9 @@ namespace WebProjectManager.Models.Migrations
                     b.Property<bool?>("IsActive")
                         .HasColumnType("bit");
 
+                    b.Property<bool?>("IsReceiveMail")
+                        .HasColumnType("bit");
+
                     b.Property<bool?>("IsVerification")
                         .HasColumnType("bit");
 
@@ -674,34 +659,6 @@ namespace WebProjectManager.Models.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("User");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("e87ac7c5-95a5-46dd-92e4-9785bf11b5f3"),
-                            AccessFailedCount = 0,
-                            Address = "Đà Nẵng",
-                            ConcurrencyStamp = "ad25a31b-2fb4-4f72-a313-246d8f5d2fb8",
-                            CreatedOn = new DateTime(2022, 4, 9, 11, 20, 3, 905, DateTimeKind.Local).AddTicks(6499),
-                            DateOfBirth = new DateTime(2000, 6, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Email = "admin@gmail.com",
-                            EmailConfirmed = true,
-                            Firstname = "Nam",
-                            Gender = true,
-                            IsActive = true,
-                            IsVerification = true,
-                            Lastname = "Tran Thanh",
-                            LockoutEnabled = false,
-                            NormalizedEmail = "ADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAEAACcQAAAAEBn/lfgI3YT5je5TLzIY1IcdAcvRrDiKWEc/Hj4FSQFrxxvutu17nzJ/HlwHox0dQA==",
-                            PhoneNumber = "0968354148",
-                            PhoneNumberConfirmed = false,
-                            SecurityStamp = "",
-                            TwoFactorEnabled = false,
-                            UpdatedOn = new DateTime(2022, 4, 9, 11, 20, 3, 905, DateTimeKind.Local).AddTicks(6510),
-                            UrlAvatar = "/upload/avatar/admin1.jpg",
-                            UserName = "admin123"
-                        });
                 });
 
             modelBuilder.Entity("WebProjectManager.Models.Entities.AccountVerification", b =>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x+jOrX3pKhZJQyfs0x2ja8ZhiDuX443yMed4wY+oMaY=",
+  "Hash": "9gWZINUFCdmJcdZ3XZsMlQjO47L1qHlUeACYdr2sFio=",
   "Source": "WebProjectManager.API",
   "BasePath": "_content/WebProjectManager.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebProjectManager.API\\wwwroot",
       "Source": "WebProjectManager.API",
-      "ContentRoot": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "ContentRoot": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\",
       "BasePath": "_content/WebProjectManager.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\2f6bdc5d-fd71-4109-b4fb-74a9c0bd3003.jpg",
+      "Identity": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\uploads\\2f6bdc5d-fd71-4109-b4fb-74a9c0bd3003.jpg",
       "SourceId": "WebProjectManager.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "ContentRoot": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\",
       "BasePath": "_content/WebProjectManager.API",
       "RelativePath": "uploads/2f6bdc5d-fd71-4109-b4fb-74a9c0bd3003.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2f6bdc5d-fd71-4109-b4fb-74a9c0bd3003.jpg"
     },
     {
-      "Identity": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\48c02a70-8244-4bd9-92ce-71bc1cb009dd.jpg",
+      "Identity": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\uploads\\48c02a70-8244-4bd9-92ce-71bc1cb009dd.jpg",
       "SourceId": "WebProjectManager.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "ContentRoot": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\",
       "BasePath": "_content/WebProjectManager.API",
       "RelativePath": "uploads/48c02a70-8244-4bd9-92ce-71bc1cb009dd.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\48c02a70-8244-4bd9-92ce-71bc1cb009dd.jpg"
     },
     {
-      "Identity": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\7282a1f0-8359-4431-9a96-bd1e923c03d7.jpg",
+      "Identity": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\uploads\\7282a1f0-8359-4431-9a96-bd1e923c03d7.jpg",
       "SourceId": "WebProjectManager.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "ContentRoot": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\",
       "BasePath": "_content/WebProjectManager.API",
       "RelativePath": "uploads/7282a1f0-8359-4431-9a96-bd1e923c03d7.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\7282a1f0-8359-4431-9a96-bd1e923c03d7.jpg"
     },
     {
-      "Identity": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\b0761501-91eb-40c6-973e-3e06eba9b837.jpg",
+      "Identity": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\uploads\\b0761501-91eb-40c6-973e-3e06eba9b837.jpg",
       "SourceId": "WebProjectManager.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "ContentRoot": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\",
       "BasePath": "_content/WebProjectManager.API",
       "RelativePath": "uploads/b0761501-91eb-40c6-973e-3e06eba9b837.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\b0761501-91eb-40c6-973e-3e06eba9b837.jpg"
     },
     {
-      "Identity": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\fbf4108d-8681-43f4-b6a4-dd68a74d7392.jpg",
+      "Identity": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\uploads\\fbf4108d-8681-43f4-b6a4-dd68a74d7392.jpg",
       "SourceId": "WebProjectManager.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "ContentRoot": "D:\\Final-Report-API\\WebProjectManager.API\\wwwroot\\",
       "BasePath": "_content/WebProjectManager.API",
       "RelativePath": "uploads/fbf4108d-8681-43f4-b6a4-dd68a74d7392.jpg",
       "AssetKind": "All",

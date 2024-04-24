@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {}
+    "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {}
   },
   "projects": {
-    "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {
+    "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
+        "projectUniqueName": "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
         "projectName": "WebProjectManager.Common",
-        "projectPath": "D:\\WebProjectManager\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
+        "projectPath": "D:\\Final-Report-API\\WebProjectManager.Common\\WebProjectManager.Common.csproj",
         "packagesPath": "C:\\Users\\intern.ldbach\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProjectManager\\WebProjectManager.Common\\obj\\",
+        "outputPath": "D:\\Final-Report-API\\WebProjectManager.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
