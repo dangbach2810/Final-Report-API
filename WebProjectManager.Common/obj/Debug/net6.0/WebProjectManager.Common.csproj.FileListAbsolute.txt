@@ -1,0 +1,24 @@
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.deps.json
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfoInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfo.cs
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.CoreCompileInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\ref\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.AssemblyReference.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\ref\WebProjectManager.Common.dll
+D:\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.deps.json
+D:\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.dll
+D:\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.pdb
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.AssemblyReference.cache
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfoInputs.cache
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfo.cs
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.CoreCompileInputs.cache
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.dll
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\refint\WebProjectManager.Common.dll
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.pdb
+D:\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\ref\WebProjectManager.Common.dll

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\2f6bdc5d-fd71-4109-b4fb-74a9c0bd3003.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2f6bdc5d-fd71-4109-b4fb-74a9c0bd3003.jpg"
+    },
+    {
+      "Id": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\48c02a70-8244-4bd9-92ce-71bc1cb009dd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48c02a70-8244-4bd9-92ce-71bc1cb009dd.jpg"
+    },
+    {
+      "Id": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\7282a1f0-8359-4431-9a96-bd1e923c03d7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7282a1f0-8359-4431-9a96-bd1e923c03d7.jpg"
+    },
+    {
+      "Id": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\b0761501-91eb-40c6-973e-3e06eba9b837.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b0761501-91eb-40c6-973e-3e06eba9b837.jpg"
+    },
+    {
+      "Id": "D:\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\fbf4108d-8681-43f4-b6a4-dd68a74d7392.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fbf4108d-8681-43f4-b6a4-dd68a74d7392.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebProjectManager.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebProjectManager.API.props",
+      "PackagePath": "build\\WebProjectManager.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebProjectManager.API.props",
+      "PackagePath": "buildMultiTargeting\\WebProjectManager.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebProjectManager.API.props",
+      "PackagePath": "buildTransitive\\WebProjectManager.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
